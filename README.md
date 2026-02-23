@@ -1,5 +1,4 @@
 # Kickstarter-Dashboard-Analysis-Power-BI-Project
-# 🚀 Kickstarter Dashboard Analysis | Power BI Project
 
 ## 📊 Project Overview
 
