@@ -131,9 +131,7 @@ This enables detailed and dynamic analysis.
 
 ## 📷 Dashboard Preview
 
-(Add Screenshot Image Here)
-
-File Name:
+File Name:https://github.com/the-rahul-ambre/Kickstarter-Dashboard-Analysis-Power-BI-Project/blob/main/Kickstarter%20Dashboard.png
 kickstarter_dashboard.png
 
 ---
